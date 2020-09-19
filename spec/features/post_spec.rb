@@ -15,4 +15,5 @@ describe 'navigate' do
     expect(page).to have_css("h1", text: "My Post")
   end
 
+  
 end
